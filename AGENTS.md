@@ -34,6 +34,12 @@ Use the repository `justfile` entry points and report what actually ran:
 Coverage recipes (`just cov`, `just cov-open`) and MSRV (`just msrv`) are
 optional when relevant; do not claim they ran unless they did.
 
+
+## Security
+
+Report vulnerabilities **privately** via [`SECURITY.md`](./SECURITY.md)
+(GitHub Security Advisories). Do not open public issues for security findings.
+
 ## Pull requests
 
 - Keep the change focused.
